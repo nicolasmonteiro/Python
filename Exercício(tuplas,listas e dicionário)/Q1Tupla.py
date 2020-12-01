@@ -1,3 +1,4 @@
+
 times = ('Sport', 'Náutico', 'Santa Cruz', 'Salgueiro', 'Central',
          'Afogados', 'Vitória', 'Petrolina', 'América', 'Flamengo Arcoverde')
 for t in range(0, len(times)):
